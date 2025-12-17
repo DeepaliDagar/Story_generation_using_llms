@@ -1,4 +1,3 @@
-python main.py
 What kind of story do you want to hear? apple, eye and bear
 
  Detected story category: Fantasy
